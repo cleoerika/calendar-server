@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<D:multistatus xmlns:D="DAV:" xmlns:caldav="urn:ietf:params:xml:ns:caldav" xmlns:cs="http://calendarserver.org/ns/" xmlns:ical="http://apple.com/ns/ical/">
+    <D:response xmlns:carddav="urn:ietf:params:xml:ns:carddav" xmlns:cm="http://cal.me.com/_namespace/" xmlns:md="urn:mobileme:davservices">
+        <D:href>/caldav/v2/projectdominokeep%40gmail.com/events/Icalfee57d0cf3b7b8cea3fa8e09a32564c3.ics</D:href>
+        <D:propstat>
+            <D:status>HTTP/1.1 200 OK</D:status>
+            <D:prop>
+                <D:getetag>"63709436730"</D:getetag>
+            </D:prop>
+        </D:propstat>
+    </D:response>
+    <D:response xmlns:carddav="urn:ietf:params:xml:ns:carddav" xmlns:cm="http://cal.me.com/_namespace/" xmlns:md="urn:mobileme:davservices">
+        <D:href>/caldav/v2/projectdominokeep%40gmail.com/events/Icalb96470ebd85172267d012c37c24f1b3e.ics</D:href>
+        <D:propstat>
+            <D:status>HTTP/1.1 200 OK</D:status>
+            <D:prop>
+                <D:getetag>"63709557569"</D:getetag>
+            </D:prop>
+        </D:propstat>
+    </D:response>
+    <D:response xmlns:carddav="urn:ietf:params:xml:ns:carddav" xmlns:cm="http://cal.me.com/_namespace/" xmlns:md="urn:mobileme:davservices">
+        <D:href>/caldav/v2/projectdominokeep%40gmail.com/events/Icald14f99474d7ff54f9cef767c82d33411.ics</D:href>
+        <D:propstat>
+            <D:status>HTTP/1.1 200 OK</D:status>
+            <D:prop>
+                <D:getetag>"63711094887"</D:getetag>
+            </D:prop>
+        </D:propstat>
+    </D:response>
+    <D:response xmlns:carddav="urn:ietf:params:xml:ns:carddav" xmlns:cm="http://cal.me.com/_namespace/" xmlns:md="urn:mobileme:davservices">
+        <D:href>/caldav/v2/projectdominokeep%40gmail.com/events/Icalc88b7602d13bfbf255d7feb0e6e5d526.ics</D:href>
+        <D:propstat>
+            <D:status>HTTP/1.1 200 OK</D:status>
+            <D:prop>
+                <D:getetag>"63711072098"</D:getetag>
+            </D:prop>
+        </D:propstat>
+    </D:response>
+    <D:response xmlns:carddav="urn:ietf:params:xml:ns:carddav" xmlns:cm="http://cal.me.com/_namespace/" xmlns:md="urn:mobileme:davservices">
+        <D:href>/caldav/v2/projectdominokeep%40gmail.com/events/Icalb248db49d9c726e116389ce84a71c94b.ics</D:href>
+        <D:propstat>
+            <D:status>HTTP/1.1 200 OK</D:status>
+            <D:prop>
+                <D:getetag>"63709754394"</D:getetag>
+            </D:prop>
+        </D:propstat>
+    </D:response>
+    <D:response xmlns:carddav="urn:ietf:params:xml:ns:carddav" xmlns:cm="http://cal.me.com/_namespace/" xmlns:md="urn:mobileme:davservices">
+        <D:href>/caldav/v2/projectdominokeep%40gmail.com/events/Icale29bc7c3dbdb691295ff81f05e14d77c.ics</D:href>
+        <D:propstat>
+            <D:status>HTTP/1.1 200 OK</D:status>
+            <D:prop>
+                <D:getetag>"63711070434"</D:getetag>
+            </D:prop>
+        </D:propstat>
+    </D:response>
+    <D:response xmlns:carddav="urn:ietf:params:xml:ns:carddav" xmlns:cm="http://cal.me.com/_namespace/" xmlns:md="urn:mobileme:davservices">
+        <D:href>/caldav/v2/projectdominokeep%40gmail.com/events/Ical90685d86c8623bcad3472b4a017c254b.ics</D:href>
+        <D:propstat>
+            <D:status>HTTP/1.1 200 OK</D:status>
+            <D:prop>
+                <D:getetag>"63710011778"</D:getetag>
+            </D:prop>
+        </D:propstat>
+    </D:response>
+</D:multistatus>

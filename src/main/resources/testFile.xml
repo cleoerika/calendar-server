@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <department>
+        <id>101</id>
+        <name>IT</name>
+    </department>
+    <firstName>Lokesh</firstName>
+    <id>1</id>
+    <lastName>Gupta</lastName>
+</employee>
