@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<D:multistatus xmlns:D="DAV:" xmlns:caldav="urn:ietf:params:xml:ns:caldav" xmlns:cs="http://calendarserver.org/ns/" xmlns:ical="http://apple.com/ns/ical/">
-    <D:response xmlns:carddav="urn:ietf:params:xml:ns:carddav" xmlns:cm="http://cal.me.com/_namespace/" xmlns:md="urn:mobileme:davservices">
-        <D:href>/caldav/v2/projectdominokeep@gmail.com/events</D:href>
-        <D:propstat>
-            <D:status>HTTP/1.1 207 OK</D:status>
-            <D:prop>
-                <D:displayname>projectdominokeep@gmail.com</D:displayname>
-                <cs:getctag>63711094887</cs:getctag>
-            </D:prop>
-        </D:propstat>
-    </D:response>
-</D:multistatus>
+<?xml version="1.0" encoding="utf-8" ?>
+<propfind xmlns="DAV:">
+	<propname />
+</propfind>

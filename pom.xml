@@ -22,6 +22,9 @@
 		<vertx.version>4.0.0-milestone3</vertx.version>
 		<junit-jupiter.version>5.4.0</junit-jupiter.version>
 
+		<netty.ssl.version>2.0.26.Final</netty.ssl.version>
+		<sl4j.version>2.0.0-alpha1</sl4j.version>
+
 		<main.verticle>com.hcl.experiment.starter.MainVerticle</main.verticle>
 	</properties>
 
@@ -38,6 +41,10 @@
 	</dependencyManagement>
 
 	<dependencies>
+		<dependency>
+			<groupId>io.netty</groupId>
+			<artifactId>netty-tcnative-boringssl-static</artifactId>
+		</dependency>
 		<dependency>
 			<groupId>io.vertx</groupId>
 			<artifactId>vertx-unit</artifactId>
@@ -89,6 +96,22 @@
 			<version>28.1-jre</version>
 		</dependency>
 
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>${sl4j.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-log4j12</artifactId>
+			<version>${sl4j.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>io.vertx</groupId>
+			<artifactId>vertx-auth-oauth2</artifactId>
+			<version>3.8.4</version>
+		</dependency>
 	</dependencies>
 
 	<build>
